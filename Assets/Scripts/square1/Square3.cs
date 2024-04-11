@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class SquareController : MonoBehaviour
+public class Square3 : MonoBehaviour
 {
     // Start is called before the first frame update
     public float timeRemaining = 60;
@@ -79,7 +79,7 @@ public class SquareController : MonoBehaviour
         if (collision.gameObject.tag.Equals("Circle"))
         {
 
-            Vector2 fistPosition = new Vector2(-6, 1);
+            Vector2 fistPosition = new Vector2(-8, -1);
             transform.position = fistPosition;
 
         }
@@ -92,7 +92,7 @@ public class SquareController : MonoBehaviour
         if (collision.gameObject.tag.Equals("Pinwheel"))
         {
 
-            Vector2 fistPosition = new Vector2(-6, 1);
+            Vector2 fistPosition = new Vector2(-8, -1);
             transform.position = fistPosition;
 
         }
@@ -105,7 +105,7 @@ public class SquareController : MonoBehaviour
         if (collision.CompareTag("MapEdge")) // Kiểm tra xem collider khác có phải là viền bản đồ không
         {
             // Dừng di chuyển của GameObject khi va chạm vào viền bản đồ
-            Vector2 fistPosition = new Vector2(-6, 1);
+            Vector2 fistPosition = new Vector2(-8, -1);
             transform.position = fistPosition;
         }
     }

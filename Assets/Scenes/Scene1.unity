@@ -1502,49 +1502,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1860318726318810551, guid: f4de936f19b76794b847efafc8a93408, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 371.3871
-      objectReference: {fileID: 0}
-    - target: {fileID: 1860318726318810551, guid: f4de936f19b76794b847efafc8a93408, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 51.800114
-      objectReference: {fileID: 0}
-    - target: {fileID: 5376194866966340581, guid: f4de936f19b76794b847efafc8a93408, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 458.72
-      objectReference: {fileID: 0}
-    - target: {fileID: 5376194866966340581, guid: f4de936f19b76794b847efafc8a93408, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -274.6
-      objectReference: {fileID: 0}
     - target: {fileID: 5388471046590994795, guid: f4de936f19b76794b847efafc8a93408, type: 3}
       propertyPath: m_Name
       value: MenuChinh
-      objectReference: {fileID: 0}
-    - target: {fileID: 7083227107589808663, guid: f4de936f19b76794b847efafc8a93408, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 412.5425
-      objectReference: {fileID: 0}
-    - target: {fileID: 7083227107589808663, guid: f4de936f19b76794b847efafc8a93408, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 120.18
-      objectReference: {fileID: 0}
-    - target: {fileID: 7083227107589808663, guid: f4de936f19b76794b847efafc8a93408, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 72.4779
-      objectReference: {fileID: 0}
-    - target: {fileID: 7083227107589808663, guid: f4de936f19b76794b847efafc8a93408, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 60.09
-      objectReference: {fileID: 0}
-    - target: {fileID: 7814656565443446594, guid: f4de936f19b76794b847efafc8a93408, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 456.3654
-      objectReference: {fileID: 0}
-    - target: {fileID: 7814656565443446594, guid: f4de936f19b76794b847efafc8a93408, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -273.42136
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
